@@ -1,6 +1,6 @@
 # PortaLocal - Create Localhost Quickly
 
-**English** | [Tiếng Việt](#porta-local---tạo-localhost-nhanh-chóng)
+**English** | [Tiếng Việt](#portalocal---tạo-localhost-nhanh-chóng)
 
 ## About
 PortaLocal is a user-friendly GUI tool developed by Truong Quoc Nam (Trương Quốc Nam) to create and manage local HTTP/HTTPS servers. Built with Python and Tkinter, it allows users to select a directory, specify a port, choose between HTTP or HTTPS, and start/stop a server effortlessly. It supports self-signed SSL certificates for HTTPS and includes a built-in terminal for server logs. PortaLocal is open-source under the [GNU General Public License v3.0](LICENSE).
@@ -77,7 +77,7 @@ PortaLocal is licensed under the [GNU General Public License v3.0](LICENSE).
 
 # PortaLocal - Tạo Localhost Nhanh Chóng
 
-[English](#porta-local---create-localhost-quickly) | **Tiếng Việt**
+[English](#portalocal---create-localhost-quickly) | **Tiếng Việt**
 
 ## Giới Thiệu
 PortaLocal là một công cụ giao diện đồ họa thân thiện được phát triển bởi Trương Quốc Nam để tạo và quản lý các máy chủ HTTP/HTTPS cục bộ. Được xây dựng bằng Python và Tkinter, công cụ cho phép người dùng chọn thư mục, chỉ định cổng, chọn giao thức HTTP hoặc HTTPS, và khởi động/dừng máy chủ một cách dễ dàng. Nó hỗ trợ chứng chỉ SSL tự ký cho HTTPS và có terminal tích hợp để xem log máy chủ. PortaLocal là mã nguồn mở theo [Giấy phép Công cộng GNU v3.0](LICENSE).
