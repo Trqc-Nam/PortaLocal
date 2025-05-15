@@ -13,6 +13,10 @@ PortaLocal is a user-friendly GUI tool developed by Truong Quoc Nam (Trương Qu
 - Real-time server activity logs in the GUI.
 - Just download and run, no installation required (for WINDOWS OS only).
 
+## Screenshot
+Below is a screenshot of the PortaLocal main interface: 
+![Main Interface](images/main_interface.png)
+
 ## Installation
 PortaLocal offers two installation methods:
 
@@ -90,6 +94,8 @@ PortaLocal là một công cụ giao diện đồ họa thân thiện được p
 - Hiển thị log hoạt động máy chủ trong thời gian thực.
 - Chỉ cần tải về và dùng ngay, không cần cài đặt (chỉ WINDOWS OS).
 
+## Ảnh giao diện
+![Main Interface](images/main_interface.png)
 
 ## Cài Đặt
 PortaLocal cung cấp hai phương thức cài đặt:
